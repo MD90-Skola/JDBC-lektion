@@ -8,6 +8,9 @@ import java.sql.ResultSet;
 import java.time.LocalDateTime;
 
 
+// 50 min in i videon
+
+
 public class JdbcDemo {
 
     private static final String URL = "jdbc:mysql://localhost:3306/student_db";
